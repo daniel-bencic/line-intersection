@@ -1,0 +1,4 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Daniel\Documents\MSI-AS\Computational_Geometry\assignments\assignment_2\assignment_2\\dependencies\SDL2-2.0.8\lib\x64\SDL2main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Daniel\Documents\MSI-AS\Computational_Geometry\assignments\assignment_2\assignment_2\\dependencies\SDL2-2.0.8\lib\x64\SDL2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Daniel\Documents\MSI-AS\Computational_Geometry\assignments\assignment_2\assignment_2\Debug\assignment_2.exe : fatal error LNK1120: 1 unresolved externals
